@@ -3,7 +3,7 @@
 My name is Tim Solokha, a student at Cedarville University. I am interested in the Web Dev/Design field.
 
 - 🔭 I'm currently studying Computer Science
-- 🌱 I'm currently learning various web frameworks
+- 🌱 I'm currently learning the Unreal Game Engine
 - ⚡ Fun fact: I'm bilingual in English and Russian
 
 ## 🛠️  Technologies and Tools
@@ -15,4 +15,4 @@ My name is Tim Solokha, a student at Cedarville University. I am interested in t
 
 
 ## 📖  What I am learning
-<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
