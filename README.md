@@ -2,7 +2,7 @@
 
 My name is Tim Solokha, a student at Cedarville University. I am interested in the Web Dev/Design field.
 
-- 🔭 I'm currently studying Computer Science
+- 🔭 I graduated Cedarville University with a Bachelor's in Computer Science
 - 🌱 I'm currently learning the Unreal Game Engine
 - ⚡ Fun fact: I'm bilingual in English and Russian
 
