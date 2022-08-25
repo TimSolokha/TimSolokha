@@ -1,18 +1,17 @@
 ![Header](header.png)
 
-My name is Tim Solokha, a student at Cedarville University. I am interested in the Web Dev/Design field.
-
-- 🔭 I graduated Cedarville University with a Bachelor's in Computer Science
-- 🌱 I'm currently learning the Unreal Game Engine
-- ⚡ Fun fact: I'm bilingual in English and Russian
+I'm currently a Developer Advocate @Huntington National Bank
 
 ## 🛠️  Technologies and Tools
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/en/)
+[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![My Skills](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
 
 
 ## 📖  What I am learning
-<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+[![My Skills](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
+[![My Skills](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
+[![My Skills](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
+[![My Skills](https://skillicons.dev/icons?i=blender)](https://www.blender.org/)
